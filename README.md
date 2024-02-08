@@ -25,3 +25,6 @@
 <a href="#" title="sqlite"><img src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg" alt="sqlite" width="100px" height="100px"></a>
 <a href="#" title="postgresql"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql-logo.svg" alt="postgresql" width="100px" height="100px"></a>
 <a href="#" title="aws-s3"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws-s3.svg" alt="aws-s3" width="100px" height="100px"></a>
+<a href="#" title="mongodb"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="mongodb" width="100px" height="100px"></a>
+<a href="#" title="redis"><img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="redis" width="100px" height="100px"></a>
+
